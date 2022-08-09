@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+h1, h2, h3{
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(220, 215, 201);
+}
+
+p, li{
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(220, 215, 201);
+}
+
+body{
+    background-color: rgb(44, 54, 57);
+}
+
+a:link {
+    color: rgb(162, 123, 92);
+    size: 20px;
+}
+
+a:visited {
+    color: rgb(162, 123, 92);
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(44, 54, 57);
+    color: white;
+    display: block;
+}
+
+img {
+    padding-top: 5px;
+}
